@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.banner-background {
+  background-image: url("https://digital.auctionhouse.co.uk/wp-content/uploads/2024/09/website-banner-images.png") !important;
+  background-size: cover !important;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+.ah-logo {
+  display: none;
+}
+
+/* Black Nav Changes */
+.black-nav {
+  background-color: #0f2c50;
+}
+
+.member-drop-down select {
+  border-radius: 12px;
+  font-family: "Montserrat";
+  color: #0f2c50;
+  padding: 0.5rem;
+  background: white;
+  text-align: center;
+  margin-bottom: 1rem;
+  border: none;
+}
+
+.black-nav a {
+  color: #ee2737 !important;
+}
+
+.black-nav .icon-bar {
+  background-color: #fff;
+  margin-top: 0.5rem;
+}
+
+nav .text-white {
+  color: #fff !important;
+}
+
+/* 2nd Menu Banner */
+#white-bar .btn {
+  background-color: #ee2737;
+  border-radius: 25px !important;
+}
+
+#white-bar h2 {
+  text-transform: capitalize;
+  font-family: "Montserrat";
+  font-weight: 500;
+}
+
+#white-bar a {
+  color: #0f2c50;
+}
+
+/* Search Box */
+.search-box h2 {
+  font-family: "Montserrat";
+  font-weight: 600;
+  color: #0f2c50;
+}
+
+.search-box {
+  border-radius: 15px;
+  background: white;
+  box-shadow: 10px 10px 24px 0px rgba(0, 0, 0, 0.13);
+}
+
+.checkbox {
+  color: #2f2c50 !important;
+}
+
+.search-box label {
+  font-family: "Montserrat";
+  font-weight: 500;
+  color: #0f2c50;
+}
